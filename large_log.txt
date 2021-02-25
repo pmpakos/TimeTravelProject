@@ -1,0 +1,206 @@
+1962-01-05 | temp_trans : 2	| day's profit = 0.004	| total transactions :2
+1962-01-05 Remaining transactions : 999998 ( trans_per_day 68 ) Balance : 1.004145
+
+1962-11-01 | temp_trans : 2	| day's profit = 0.01	| total transactions :66
+1963-05-20 Remaining transactions : 999912 ( trans_per_day 70 ) Balance : 1.543801
+
+1964-10-01 Remaining transactions : 999866 ( trans_per_day 72 ) Balance : 1.697462999999999
+
+1966-02-13 Remaining transactions : 999848 ( trans_per_day 74 ) Balance : 1.766755999999999
+
+1967-06-28 Remaining transactions : 999730 ( trans_per_day 76 ) Balance : 2.2753739999999967
+
+1968-11-09 Remaining transactions : 999616 ( trans_per_day 78 ) Balance : 2.8432099999999956
+
+1969-05-28 | temp_trans : 2	| day's profit = 0.002	| total transactions :422
+1970-03-24 | temp_trans : 4	| day's profit = 0.179	| total transactions :626
+1970-03-24 Remaining transactions : 999374 ( trans_per_day 80 ) Balance : 15.262131799999976
+
+1970-07-02 | temp_trans : 4	| day's profit = 1.427	| total transactions :858
+1971-01-18 | temp_trans : 2	| day's profit = 45.736	| total transactions :1368
+1971-04-28 | temp_trans : 4	| day's profit = 312.925	| total transactions :1602
+1971-08-06 | temp_trans : 4	| day's profit = 480.601	| total transactions :1814
+1971-08-06 Remaining transactions : 998186 ( trans_per_day 82 ) Balance : 80027.84302229984
+
+1972-02-22 | temp_trans : 6	| day's profit = 443.741	| total transactions :2506
+1972-06-01 | temp_trans : 2	| day's profit = 884.765	| total transactions :3088
+1972-12-18 | temp_trans : 12	| day's profit = 11260.703	| total transactions :4104
+1972-12-18 Remaining transactions : 995896 ( trans_per_day 85 ) Balance : 2278649.821105396
+
+1973-03-28 | temp_trans : 12	| day's profit = 15057.116	| total transactions :4666
+1973-07-06 | temp_trans : 4	| day's profit = 297.321	| total transactions :5414
+1974-01-22 | temp_trans : 26	| day's profit = 25939.11	| total transactions :7676
+1974-05-02 | temp_trans : 12	| day's profit = 10364.749	| total transactions :8730
+1974-05-02 Remaining transactions : 991270 ( trans_per_day 87 ) Balance : 9512233.514869493
+
+1974-11-18 | temp_trans : 4	| day's profit = 7440.505	| total transactions :11872
+1975-02-26 | temp_trans : 38	| day's profit = 48796.386	| total transactions :13646
+1975-06-06 | temp_trans : 6	| day's profit = 1852.68	| total transactions :14962
+1975-09-14 Remaining transactions : 984164 ( trans_per_day 89 ) Balance : 20064460.14692837
+
+1975-12-23 | temp_trans : 16	| day's profit = 8683.138	| total transactions :16746
+1976-04-01 | temp_trans : 4	| day's profit = 198.228	| total transactions :17722
+1976-10-18 | temp_trans : 20	| day's profit = 33034.16	| total transactions :18892
+1977-01-26 | temp_trans : 6	| day's profit = 1114.851	| total transactions :19506
+1977-01-26 Remaining transactions : 980494 ( trans_per_day 92 ) Balance : 25178457.790950853
+
+1977-05-06 | temp_trans : 8	| day's profit = 9209.773	| total transactions :20194
+1977-11-22 | temp_trans : 22	| day's profit = 13904.44	| total transactions :21748
+1978-03-02 | temp_trans : 12	| day's profit = 1642.897	| total transactions :22432
+1978-06-10 Remaining transactions : 976374 ( trans_per_day 94 ) Balance : 30809850.70565046
+
+1978-09-18 | temp_trans : 8	| day's profit = 19644.647	| total transactions :24604
+1978-12-27 | temp_trans : 6	| day's profit = 2613.69	| total transactions :25764
+1979-04-06 | temp_trans : 12	| day's profit = 25725.526	| total transactions :26774
+1979-10-23 | temp_trans : 10	| day's profit = 9635.908	| total transactions :28534
+1979-10-23 Remaining transactions : 971466 ( trans_per_day 97 ) Balance : 42552765.13579125
+
+1980-01-31 | temp_trans : 28	| day's profit = 161464.493	| total transactions :30046
+1980-08-18 | temp_trans : 10	| day's profit = 17445.169	| total transactions :33806
+1980-11-26 | temp_trans : 24	| day's profit = 182386.736	| total transactions :35610
+1981-03-06 | temp_trans : 18	| day's profit = 8716.968	| total transactions :37510
+1981-03-06 Remaining transactions : 962490 ( trans_per_day 100 ) Balance : 79651756.26508237
+
+1981-09-22 | temp_trans : 30	| day's profit = 42103.132	| total transactions :40588
+1981-12-31 | temp_trans : 18	| day's profit = 10649.065	| total transactions :42430
+1982-07-19 | temp_trans : 30	| day's profit = 224752.921	| total transactions :47692
+1982-07-19 Remaining transactions : 952308 ( trans_per_day 103 ) Balance : 133629489.91970126
+
+1982-10-27 | temp_trans : 54	| day's profit = 191527.185	| total transactions :51798
+1983-02-04 | temp_trans : 66	| day's profit = 1095479.149	| total transactions :55360
+1983-08-23 | temp_trans : 22	| day's profit = 64091.754	| total transactions :61418
+1983-12-01 | temp_trans : 40	| day's profit = 410231.647	| total transactions :64652
+1983-12-01 Remaining transactions : 935348 ( trans_per_day 105 ) Balance : 321192701.07794917
+
+1984-06-18 | temp_trans : 106	| day's profit = 1078685.715	| total transactions :71150
+1984-09-26 | temp_trans : 72	| day's profit = 243020.363	| total transactions :75086
+1985-01-04 | temp_trans : 32	| day's profit = 59661.955	| total transactions :78644
+1985-04-14 Remaining transactions : 917602 ( trans_per_day 107 ) Balance : 495759137.4615888
+
+1985-07-23 | temp_trans : 78	| day's profit = 1261352.664	| total transactions :85890
+1985-10-31 | temp_trans : 34	| day's profit = 731027.108	| total transactions :89118
+1986-05-19 | temp_trans : 42	| day's profit = 202984.703	| total transactions :99748
+1986-08-27 | temp_trans : 76	| day's profit = 561619.96	| total transactions :105430
+1986-08-27 Remaining transactions : 894570 ( trans_per_day 109 ) Balance : 715144373.9136236
+
+1986-12-05 | temp_trans : 58	| day's profit = 172212.754	| total transactions :111538
+1987-06-23 | temp_trans : 68	| day's profit = 4195398.071	| total transactions :123786
+1987-10-01 | temp_trans : 110	| day's profit = 2231793.933	| total transactions :129716
+1988-01-09 Remaining transactions : 863342 ( trans_per_day 110 ) Balance : 1477210573.172456
+
+1988-04-18 | temp_trans : 94	| day's profit = 348959.854	| total transactions :143650
+1988-07-27 | temp_trans : 40	| day's profit = 105781.064	| total transactions :149278
+1988-11-04 | temp_trans : 58	| day's profit = 305773.36	| total transactions :154878
+1989-05-23 | temp_trans : 46	| day's profit = 138885.769	| total transactions :164932
+1989-05-23 Remaining transactions : 835068 ( trans_per_day 112 ) Balance : 1788561136.4296906
+
+1989-08-31 | temp_trans : 60	| day's profit = 210390.636	| total transactions :170592
+1990-03-19 | temp_trans : 112	| day's profit = 3049624.79	| total transactions :182226
+1990-06-27 | temp_trans : 112	| day's profit = 1071290.885	| total transactions :188840
+1990-10-05 | temp_trans : 112	| day's profit = 3053927.671	| total transactions :196098
+1990-10-05 Remaining transactions : 803902 ( trans_per_day 113 ) Balance : 2200709089.59797
+
+1991-04-23 | temp_trans : 112	| day's profit = 544778.07	| total transactions :211108
+1991-08-01 | temp_trans : 114	| day's profit = 2232505.518	| total transactions :218196
+1992-02-17 Remaining transactions : 767254 ( trans_per_day 114 ) Balance : 2870338372.581688
+
+1992-05-27 | temp_trans : 114	| day's profit = 657208.751	| total transactions :240060
+1992-09-04 | temp_trans : 94	| day's profit = 221602.603	| total transactions :247514
+1993-03-23 | temp_trans : 114	| day's profit = 3269339.663	| total transactions :262400
+1993-07-01 | temp_trans : 114	| day's profit = 1411893.344	| total transactions :270150
+1993-07-01 Remaining transactions : 729850 ( trans_per_day 114 ) Balance : 3594642365.441745
+
+1994-01-17 | temp_trans : 114	| day's profit = 1920984.686	| total transactions :285440
+1994-08-05 | temp_trans : 114	| day's profit = 896153.407	| total transactions :300860
+1994-11-13 Remaining transactions : 691840 ( trans_per_day 115 ) Balance : 4358844259.535455
+
+1995-02-21 | temp_trans : 96	| day's profit = 1350972.326	| total transactions :315540
+1995-06-01 | temp_trans : 114	| day's profit = 5173348.814	| total transactions :323260
+1995-12-18 | temp_trans : 114	| day's profit = 5772575.93	| total transactions :338426
+1996-03-27 | temp_trans : 114	| day's profit = 3580966.055	| total transactions :346212
+1996-03-27 Remaining transactions : 653788 ( trans_per_day 115 ) Balance : 6202914308.575227
+
+1996-07-05 | temp_trans : 76	| day's profit = 505840.958	| total transactions :353742
+1997-01-21 | temp_trans : 116	| day's profit = 27851450.277	| total transactions :369274
+1997-05-01 | temp_trans : 116	| day's profit = 9172703.829	| total transactions :377322
+1997-08-09 Remaining transactions : 614718 ( trans_per_day 116 ) Balance : 8943054697.780336
+
+1997-11-17 | temp_trans : 116	| day's profit = 9805557.213	| total transactions :393300
+1998-02-25 | temp_trans : 116	| day's profit = 11411346.693	| total transactions :401012
+1998-06-05 | temp_trans : 116	| day's profit = 12000689.211	| total transactions :409000
+1998-12-22 | temp_trans : 116	| day's profit = 90486703.346	| total transactions :425112
+1998-12-22 Remaining transactions : 574888 ( trans_per_day 116 ) Balance : 15994946939.653976
+
+1999-04-01 | temp_trans : 116	| day's profit = 35990204.656	| total transactions :432998
+1999-10-18 | temp_trans : 116	| day's profit = 45622614.579	| total transactions :448986
+2000-01-26 | temp_trans : 116	| day's profit = 62564461.854	| total transactions :456884
+2000-05-05 | temp_trans : 116	| day's profit = 69677850.599	| total transactions :465004
+2000-05-05 Remaining transactions : 534996 ( trans_per_day 117 ) Balance : 41000536578.040474
+
+2000-11-21 | temp_trans : 116	| day's profit = 86378000.462	| total transactions :481128
+2001-03-01 | temp_trans : 116	| day's profit = 233883821.711	| total transactions :488900
+2001-09-17 | temp_trans : 116	| day's profit = 470656270.86	| total transactions :504382
+2001-09-17 Remaining transactions : 495618 ( trans_per_day 117 ) Balance : 68362839696.56182
+
+2001-12-26 | temp_trans : 116	| day's profit = 11508111.616	| total transactions :512502
+2002-04-05 | temp_trans : 116	| day's profit = 5404639.248	| total transactions :520332
+2002-10-22 | temp_trans : 118	| day's profit = 70999581.984	| total transactions :536506
+2003-01-30 | temp_trans : 114	| day's profit = 6092986.631	| total transactions :544382
+2003-01-30 Remaining transactions : 455618 ( trans_per_day 118 ) Balance : 82702852540.74246
+
+2003-08-18 | temp_trans : 118	| day's profit = 32169680.057	| total transactions :560080
+2003-11-26 | temp_trans : 118	| day's profit = 4532178.554	| total transactions :567788
+2004-03-05 | temp_trans : 118	| day's profit = 22183178.538	| total transactions :574846
+2004-06-13 Remaining transactions : 418178 ( trans_per_day 119 ) Balance : 88905515283.1298
+
+2004-09-21 | temp_trans : 120	| day's profit = 10364493.192	| total transactions :588826
+2004-12-30 | temp_trans : 40	| day's profit = 1336373.435	| total transactions :596082
+2005-07-18 | temp_trans : 120	| day's profit = 10724947.499	| total transactions :611710
+2005-10-26 | temp_trans : 120	| day's profit = 52716729.061	| total transactions :620230
+2005-10-26 Remaining transactions : 379770 ( trans_per_day 120 ) Balance : 96937815325.3002
+
+2006-02-03 | temp_trans : 120	| day's profit = 25274691.866	| total transactions :628390
+2006-08-22 | temp_trans : 120	| day's profit = 13627408.567	| total transactions :644950
+2006-11-30 | temp_trans : 120	| day's profit = 34040576.54	| total transactions :653350
+2007-03-10 Remaining transactions : 338730 ( trans_per_day 121 ) Balance : 107143847406.07054
+
+2007-06-18 | temp_trans : 120	| day's profit = 12135446.963	| total transactions :669550
+2007-09-26 | temp_trans : 120	| day's profit = 36641616.333	| total transactions :677950
+2008-01-04 | temp_trans : 122	| day's profit = 31417934.906	| total transactions :686306
+2008-07-22 | temp_trans : 122	| day's profit = 481314998.287	| total transactions :703020
+2008-07-22 Remaining transactions : 296980 ( trans_per_day 122 ) Balance : 135274996063.59186
+
+2008-10-30 | temp_trans : 122	| day's profit = 234017907.435	| total transactions :711682
+2009-05-18 | temp_trans : 122	| day's profit = 153469091.869	| total transactions :728274
+2009-08-26 | temp_trans : 122	| day's profit = 36531428.458	| total transactions :736814
+2009-12-04 | temp_trans : 122	| day's profit = 77593669.885	| total transactions :745354
+2009-12-04 Remaining transactions : 254646 ( trans_per_day 123 ) Balance : 192436737317.3065
+
+2010-06-22 | temp_trans : 122	| day's profit = 19051726.94	| total transactions :761946
+2010-09-30 | temp_trans : 122	| day's profit = 17086498.296	| total transactions :770486
+2011-04-18 | temp_trans : 124	| day's profit = 67540366.994	| total transactions :787456
+2011-04-18 Remaining transactions : 212544 ( trans_per_day 124 ) Balance : 208462807800.61908
+
+2011-07-27 | temp_trans : 124	| day's profit = 21456397.931	| total transactions :796012
+2011-11-04 | temp_trans : 124	| day's profit = 50713779.542	| total transactions :804816
+2012-05-22 | temp_trans : 124	| day's profit = 34711301.325	| total transactions :821680
+2012-08-30 | temp_trans : 124	| day's profit = 11271440.976	| total transactions :830360
+2012-08-30 Remaining transactions : 169640 ( trans_per_day 125 ) Balance : 224670701027.6537
+
+2013-03-18 | temp_trans : 126	| day's profit = 50090821.928	| total transactions :847046
+2013-06-26 | temp_trans : 126	| day's profit = 17698724.536	| total transactions :855866
+2013-10-04 | temp_trans : 126	| day's profit = 45317478.663	| total transactions :864686
+2014-01-12 Remaining transactions : 126872 ( trans_per_day 127 ) Balance : 238328429800.81097
+
+2014-04-22 | temp_trans : 126	| day's profit = 72742696.299	| total transactions :881822
+2014-07-31 | temp_trans : 126	| day's profit = 60481285.61	| total transactions :890654
+2015-05-27 | temp_trans : 128	| day's profit = 37620110.149	| total transactions :916996
+2015-05-27 Remaining transactions : 83004 ( trans_per_day 129 ) Balance : 256834836864.5774
+
+2015-09-04 | temp_trans : 128	| day's profit = 18173215.771	| total transactions :926110
+2016-03-22 | temp_trans : 130	| day's profit = 61925667.41	| total transactions :943790
+2016-06-30 | temp_trans : 132	| day's profit = 99423693.67	| total transactions :953008
+2016-10-08 Remaining transactions : 37884 ( trans_per_day 133 ) Balance : 280282331526.1067
+
+2017-04-26 | temp_trans : 138	| day's profit = 60975913.437	| total transactions :980566
+2017-08-04 | temp_trans : 140	| day's profit = 59210853.711	| total transactions :990298
